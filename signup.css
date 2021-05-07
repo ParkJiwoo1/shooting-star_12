@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+.login{
+    max-width:980px;
+}
+.header{
+    background-color: aqua;
+    border-bottom: 1px solid black;
+    margin: 10px 0;
+}
+.login-form input{
+    display: flex;
+    margin-bottom: 10px;
+}
